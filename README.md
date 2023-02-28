@@ -8,4 +8,4 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-Создан недольшой Интернет-магазин на Django и VueJS
+Создан небольшой Интернет-магазин на Django и VueJS
